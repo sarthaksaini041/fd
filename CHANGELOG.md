@@ -1,3 +1,9 @@
+# Upcoming release
+
+## Bugfixes
+- Fix zsh completion failing with `bad pattern` because the `--format` entry was only partially quoted, see #2216 (@sarthaksaini041)
+
+
 # 10.5.1
 
 ## Bugfixes
